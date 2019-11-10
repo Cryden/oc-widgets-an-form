@@ -44,4 +44,6 @@ https://vue-multiselect.js.org/#sub-custom-configuration
 
 https://github.com/vue-generators/vue-form-generator
 
+https://www.jqwidgets.com/vue/vue-tree/#https://www.jqwidgets.com/vue/vue-tree/vue-tree-contextmenu.htm
+
 ### read-progress
